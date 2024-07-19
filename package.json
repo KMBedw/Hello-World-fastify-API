@@ -1,0 +1,16 @@
+{
+  "name": "hello_world_fastify_api",
+  "version": "1.0.2",
+  "description": "A small Node.js Fastify API.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --watch app.js",
+    "start": "node app.js"
+  },
+  "author": "LuckyFox31",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fastify": "^4.12.0"
+  }
+}
